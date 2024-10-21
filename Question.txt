@@ -1,0 +1,5 @@
+Question:
+1. There are a lot of real industrial datasets at https://www.kaggle.com/datasets. Please select any
+one of the datasets on it and take any one feature in the selected dataset as random variable X.
+After that, write the program in Python or use Excel to fit the selected variable X and given Y in
+linear regression model.
